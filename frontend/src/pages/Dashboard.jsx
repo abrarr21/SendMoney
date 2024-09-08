@@ -1,9 +1,5 @@
 const Dashboard = () => {
-  return (
-    <>
-      <div>This is dashboard.</div>
-    </>
-  );
+  return <div></div>;
 };
 
 export default Dashboard;
